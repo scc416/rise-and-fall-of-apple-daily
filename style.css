@@ -54,7 +54,7 @@ ul li {
 }
 
 footer {
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 .title {
@@ -75,15 +75,14 @@ footer {
   color: #464646;
   border-bottom: 1px solid black;
   padding: 0.1em 0;
+  
 }
 
-div.subtitle div {
-  position: relative;
-  top: 0.3em;
+a {
+  text-decoration: none;
 }
 
 a.name {
-  text-decoration: none;
   color: #444;
 }
 
@@ -98,7 +97,7 @@ img {
 .caption {
   font-style: italic;
   font-size: 0.9em;
-  width: 80%;
+  width: 100%;
 }
 
 footer {
@@ -167,7 +166,7 @@ div.quote {
   }
 
   .caption {
-    max-width: 80%;
+    width: 80%;
   }
 
   div.quote {
