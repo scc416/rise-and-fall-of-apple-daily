@@ -1,24 +1,36 @@
-@import url('https://fonts.googleapis.com/css?family=Prompt');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Staatliches&display=swap");
 
-#main {
-
+body,
+.vex.vex-theme-top .vex-content {
+  font-family: "Source Sans Pro";
   text-align: center;
 }
 
-.relative {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 100vw;
-  position: relative;
-  top: min( max(8.5vw, 60px), 96px);
-  z-index: -1;
+div.vex-dialog-buttons {
+  display: none;
 }
 
 .logo {
-  height: min(3.33vw, 40px);
+  height: 1.1em;
   position: relative;
-  top: min(0.42vw, 5px);
+  top: 0.15em;
+}
+
+main {
+  position: relative;
+  top: 9vw;
+  font-size: 1.1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #444;
+}
+
+strong {
+  background-color: #444;
+  color: white;
+  padding: 0.3em;
+  border-radius: 0.2em;
 }
 
 nav {
@@ -27,63 +39,146 @@ nav {
   top: 0px;
   left: 0px;
   height: 0px;
-  font-family: Prompt;
-  
+  font-family: Staatliches;
+  z-index: 1;
 }
 
 ul {
-  line-height: 32px;
+  list-style-type: none;
+  line-height: 2em;
+  padding: 0;
+}
+
+ul li {
+  padding: 0.3em 0;
 }
 
 footer {
-  font-size: 18px;
+  font-size: 1.3em;
 }
 
-#title {
+.title {
+  letter-spacing: 0.1em;
   width: 100%;
-  background: rgb(16 130 215);
+  background: #3982d1;
+  color: #161616;
   vertical-align: center;
-  font-size: min(2.67vw, 32px);
-  font-weight:	bold;
+  font-size: 3.8vw;
+  font-weight: bold;
   text-transform: uppercase;
 }
 
-#subtitle {
+.subtitle {
+  font-size: 2.5vw;
   width: 100%;
   background: white;
-  color: black;
+  color: #464646;
+  border-bottom: 1px solid black;
+  padding: 0.1em 0;
 }
 
-#subtitle:hover{
-  background: rgb(110 190 234);
+div.subtitle div {
+  position: relative;
+  top: 0.3em;
 }
 
-#img-div {
-  width: 80%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+a.name {
+  text-decoration: none;
+  color: #444;
 }
 
-#image {
-  max-width: 80%;
-  
+.subtitle:hover {
+  background: #80bde6;
 }
 
-#img-caption {
+img {
+  max-width: 100%;
+}
+
+.caption {
   font-style: italic;
-  font-size: min(max(2vw, 12px), 16px)
+  font-size: 0.9em;
+  width: 80%;
 }
 
 footer {
-  background-color: rgb(229 227 230);
+  background-color: #e5e3e6;
   width: 100%;
 }
 
-.date {
-  font-weight:	bold;
+ol li {
+  list-style-type: none;
+  font-size: 0.8em;
 }
 
-#tribute-info {
-  width: 70%;
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+.vex.vex-theme-top .vex-dialog-form div.vex-dialog-message {
+  margin: 0;
+}
+
+q {
+  font-style: italic;
+}
+
+q.no-quote {
+  font-style: normal;
+}
+
+.name {
+  background: #80bde6;
+  padding: 0.2em;
+}
+
+q.quote {
+  font-size: 1.2em;
+}
+
+div.quote {
+  width: 80%;
+  padding: 1.6em;
+  font-size: 1.1em;
+}
+
+.vex.vex-theme-top .vex-dialog-form div.vex-dialog-input {
+  margin-bottom: 0em;
+}
+
+.red {
+  background-color: #c53027;
+  color: white;
+  padding: 0.2em;
+}
+
+@media (min-width: 768px) {
+  main {
+    top: 7vw;
+  }
+
+  .tribute-info {
+    width: 70%;
+  }
+
+  img {
+    max-width: 80%;
+  }
+
+  .caption {
+    max-width: 80%;
+  }
+
+  div.quote {
+    width: 60%;
+  }
+
+  .title {
+    font-size: 3vw;
+  }
+
+  .subtitle {
+    font-size: 1.5vw;
+  }
 }
