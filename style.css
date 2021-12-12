@@ -94,12 +94,6 @@ img {
   max-width: 100%;
 }
 
-.caption {
-  font-style: italic;
-  font-size: 0.9em;
-  width: 100%;
-}
-
 footer {
   background-color: #e5e3e6;
   width: 100%;
@@ -162,11 +156,11 @@ div.quote {
   }
 
   img {
-    max-width: 80%;
+    max-width: 75%;
   }
 
   .caption {
-    width: 80%;
+    width: 75%;
   }
 
   div.quote {
