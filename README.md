@@ -12,9 +12,10 @@ This app is built on [codepen](https://codepen.io/) and export to distribute for
 https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 ## Final Product
-![initial](./docs/initial.png )
+![initial](./docs/initial.png)
 Initial view with [vex](https://github.hubspot.com/vex/docs/welcome/)
 ![content](./docs/content.png)
+![mobile](./docs/mobile.png)
 
 ## Dependencies
 - [vex](https://github.hubspot.com/vex/docs/welcome/): dialog
