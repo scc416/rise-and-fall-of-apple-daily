@@ -9,7 +9,7 @@ This web app is one of my project for [Responsive Web Design Certification](http
 
 ## Live demo
 This app is built on [codepen](https://codepen.io/) and export to distribute for this live demo:  
-https://scc416.github.io/the-rise-and-fall-of-apple-daily/
+https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 ## Final Product
 ![initial](./docs/initial.png )

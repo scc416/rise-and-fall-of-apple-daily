@@ -18,7 +18,7 @@ div.vex-dialog-buttons {
 
 main {
   position: relative;
-  top: 9vw;
+  top: 55px;
   font-size: 1.1em;
   display: flex;
   flex-direction: column;
@@ -63,19 +63,18 @@ footer {
   background: #3982d1;
   color: #161616;
   vertical-align: center;
-  font-size: 3.8vw;
+  font-size: 24px;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 .subtitle {
-  font-size: 2.5vw;
+  font-size: 16px;
   width: 100%;
   background: white;
   color: #464646;
   border-bottom: 1px solid black;
   padding: 0.1em 0;
-  
 }
 
 a {
@@ -90,7 +89,12 @@ a.name {
   background: #80bde6;
 }
 
-img {
+.image {
+  max-width: 100%;
+  font-size: small;
+}
+
+.image div {
   max-width: 100%;
 }
 
@@ -131,7 +135,7 @@ q.quote {
 }
 
 div.quote {
-  width: 80%;
+  width: 70%;
   padding: 1.6em;
   font-size: 1.1em;
 }
@@ -146,32 +150,36 @@ div.quote {
   padding: 0.2em;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media (min-width: 768px) {
   main {
-    top: 7vw;
+    top: 7.5vw;
   }
 
   .tribute-info {
     width: 70%;
   }
 
-  img {
-    max-width: 60%;
+  .image {
+    max-width: 80%;
   }
 
   .caption {
-    width: 60%;
+    width: 80%;
   }
 
   div.quote {
-    width: 60%;
+    width: 50%;
   }
 
   .title {
-    font-size: 3vw;
+    font-size: 3.1vw;
   }
 
   .subtitle {
-    font-size: 1.5vw;
+    font-size: 2.1vw;
   }
 }
