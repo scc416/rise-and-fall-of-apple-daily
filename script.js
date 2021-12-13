@@ -2,11 +2,10 @@ vex.defaultOptions.className = "vex-theme-top";
 
 vex.dialog.alert({
   unsafeMessage: `
-  The design of this page is based on the 
-    <a class="name" href="https://hk.appledaily.com/" target="_blank">
-      webpage of Apple Daily</a>, which is not available since the closing of the newspaper on June 23, 2021.
+  The design is cloned from the <a class="name" href="https://hk.appledaily.com/" target="_blank">
+  webpage of Apple Daily</a>, which is not available since the paper's closure on June 23, 2021.
  <br>
- These Apple Daily journalists are charged with the new Hong Kong National Security Law, facing life in prison. All of them are detained in prison, as court denied bail.
+ These Apple Daily journalists are charged with the new Hong Kong national security law, facing life in prison. All of them are detained in prison, as court denied bail.
   <ol>
     <li>Jimmy Lai (Founder)</li>
     <li>Cheung Kim-hung (CEO)</li>
