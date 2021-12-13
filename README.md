@@ -12,7 +12,7 @@ The design is cloned from the [webpage of Apple Daily](https://hk.appledaily.com
 
 ## Live demo
 
-This app is built on [codepen](https://codepen.io/) and export to distribute for this live demo:  
+This app is built on [codepen](https://codepen.io/) and exported to distribute for this live demo:  
 https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 ## Final Product
