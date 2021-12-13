@@ -1,6 +1,7 @@
 # The Rise and Fall of Apple Daily
 
-This webpage is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
+This webpage is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
+The design is cloned from the [webpage of Apple Daily](https://hk.appledaily.com/), which is not available since the paper's closure on June 23, 2021.
 
 ## Table of Content
 
