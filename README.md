@@ -1,7 +1,8 @@
 # The Rise and Fall of Apple Daily
 
-This webpage is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
-The design is cloned from the [webpage of Apple Daily](https://hk.appledaily.com/), which is not available since the paper's closure on June 23, 2021.
+A simple tribute page. The design is cloned from the [web page of Apple Daily](https://hk.appledaily.com/), which is not available since the paper's closure on June 23, 2021.
+This web page is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
+
 
 ## Table of Content
 
@@ -23,11 +24,11 @@ https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 |  ![content](./docs/content.png)  |
 | :------------------------------: |
-| _View of the webpage on desktop_ |
+| _View of the web page on desktop_ |
 
 |  ![mobile](./docs/mobile.png)   |
 | :-----------------------------: |
-| _View of the webpage on mobile_ |
+| _View of the web page on mobile_ |
 
 ## Dependencies
 
