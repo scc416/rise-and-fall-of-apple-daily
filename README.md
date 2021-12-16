@@ -1,6 +1,9 @@
 # The Rise and Fall of Apple Daily
 
 A simple tribute page. The design is cloned from the [web page of Apple Daily](https://hk.appledaily.com/), which is not available since the paper's closure on June 23, 2021.
+
+Apple Daily was the largest pro-democracy paper in Hong Kong, it was forced to shut its operations after authorities froze HK$18 million ($2.3 million) in assets.
+
 This web page is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
 
 

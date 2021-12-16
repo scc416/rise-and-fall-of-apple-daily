@@ -2,10 +2,9 @@ vex.defaultOptions.className = "vex-theme-top";
 
 vex.dialog.alert({
   unsafeMessage: `
-  The design is cloned from the <a class="name" href="https://hk.appledaily.com/" target="_blank">
-  webpage of Apple Daily</a>, which is not available since the paper's closure on June 23, 2021.
- <br>
- These Apple Daily journalists are charged with the new Hong Kong national security law, facing life in prison. All of them are detained in prison, as court denied bail.
+  Apple Daily was the <span class="name">largest pro-democracy paper in Hong Kong</span>, it was forced to shut its operations after authorities froze HK$18 million ($2.3 million) in assets.
+  <br>
+  These Apple Daily <span class="name">journalists are charged with the new national security law, facing life in prison</span>. All of them are detained in prison, as court denied bail.
   <ol>
     <li>Jimmy Lai (Founder)</li>
     <li>Cheung Kim-hung (CEO)</li>
