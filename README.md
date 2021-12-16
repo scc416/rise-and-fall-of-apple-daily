@@ -4,6 +4,15 @@ A simple tribute page. The design is cloned from the [web page of Apple Daily](h
 
 Apple Daily was the largest pro-democracy paper in Hong Kong, it was forced to shut its operations after authorities froze HK$18 million ($2.3 million) in assets.
 
+These Apple Daily journalists are charged with the new national security law, facing life in prison. All of them are detained in prison, as court denied bail.
+- Jimmy Lai (Founder)
+- Cheung Kim-hung (CEO)
+- Ryan Law (Editor-in-chief)
+- Chan Pui-man (Associate publisher)
+- Lam Man-chung (Executive editor-in-chief)
+- Fung Wai-kong (Editor-in-chief of the English news section)
+- Yeung Ching-kee (Editorial writer)
+
 This web page is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
 
 
