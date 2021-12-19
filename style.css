@@ -4,6 +4,7 @@ body,
 .vex.vex-theme-top .vex-content {
   font-family: "Lora";
   text-align: center;
+  color: #444;
 }
 
 div.vex-dialog-buttons {
@@ -61,7 +62,7 @@ footer {
   letter-spacing: 0.1em;
   width: 100%;
   background: #3982d1;
-  color: #161616;
+  color: #252525;
   vertical-align: center;
   font-size: 4vw;
   font-weight: bold;
@@ -73,7 +74,7 @@ footer {
   width: 100%;
   background: white;
   color: #464646;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #444;
   padding: 0.1em 0;
 }
 
@@ -100,7 +101,7 @@ a.name {
 
 footer {
   background-color: #e5e3e6;
-  width: 100%;
+  width: 100vw;
 }
 
 ol li {
