@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Open+Sans+Condensed:wght@700&display=swap");
 
 body,
 .vex.vex-theme-top .vex-content {
-  font-family: "Source Sans Pro";
+  font-family: "Lora";
   text-align: center;
 }
 
@@ -18,7 +18,7 @@ div.vex-dialog-buttons {
 
 main {
   position: relative;
-  top: 55px;
+  top: 9vw;
   font-size: 1.1em;
   display: flex;
   flex-direction: column;
@@ -39,7 +39,7 @@ nav {
   top: 0px;
   left: 0px;
   height: 0px;
-  font-family: Staatliches;
+  font-family: 'Open Sans Condensed';
   z-index: 1;
 }
 
@@ -63,13 +63,13 @@ footer {
   background: #3982d1;
   color: #161616;
   vertical-align: center;
-  font-size: 24px;
+  font-size: 4vw;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 .subtitle {
-  font-size: 16px;
+  font-size: 2.5vw;
   width: 100%;
   background: white;
   color: #464646;
@@ -156,7 +156,7 @@ img {
 
 @media (min-width: 768px) {
   main {
-    top: 7.5vw;
+    top: 70px;
   }
 
   .tribute-info {
@@ -164,7 +164,7 @@ img {
   }
 
   .image {
-    max-width: 80%;
+    max-width: 768px;
   }
 
   .caption {
@@ -176,10 +176,10 @@ img {
   }
 
   .title {
-    font-size: 3.1vw;
+    font-size: 31px;
   }
 
   .subtitle {
-    font-size: 2.1vw;
+    font-size: 19px;
   }
 }
