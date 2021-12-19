@@ -5,6 +5,7 @@ A simple tribute page. The design is cloned from the [web page of Apple Daily](h
 Apple Daily was the largest pro-democracy paper in Hong Kong, it was forced to shut its operations after authorities froze HK$18 million ($2.3 million) in assets.
 
 These Apple Daily journalists are charged with the new national security law, facing life in prison. All of them are detained in prison, as court denied bail.
+
 - Jimmy Lai (Founder)
 - Cheung Kim-hung (CEO)
 - Ryan Law (Editor-in-chief)
@@ -13,8 +14,7 @@ These Apple Daily journalists are charged with the new national security law, fa
 - Fung Wai-kong (Editor-in-chief of the English news section)
 - Yeung Ching-kee (Editorial writer)
 
-This web page is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).  
-
+This web page is one of my project for [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on [freeCodeCamp](https://www.freecodecamp.org/): [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
 ## Table of Content
 
@@ -30,17 +30,21 @@ https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 ## Final Product
 
-|                                 ![initial](./docs/initial.png)                                 |
+|                         ![desktop-initial](./docs/desktop-initial.png)                         |
 | :--------------------------------------------------------------------------------------------: |
 | _Dialog ([vex](https://github.hubspot.com/vex/docs/welcome/)) pops up when the page is loaded_ |
 
-|  ![content](./docs/content.png)  |
-| :------------------------------: |
-| _View of the web page on desktop_ |
+| ![content](./docs/desktop-content.png) |
+| :------------------------------------: |
+|   _View of the web page on desktop_    |
 
-|  ![mobile](./docs/mobile.png)   |
-| :-----------------------------: |
-| _View of the web page on mobile_ |
+|   ![mobile](./docs/mobile-initial.png)   |
+| :--------------------------------------: |
+| _Initial view of the web page on mobile_ |
+
+| ![mobile](./docs/mobile-content.png) |
+| :----------------------------------: |
+|   _View of the web page on mobile_   |
 
 ## Dependencies
 
