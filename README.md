@@ -36,15 +36,15 @@ https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 | ![content](./docs/desktop-content.png) |
 | :------------------------------------: |
-|   _View of the web page on desktop_    |
+|       _The web page on desktop_        |
 
-|   ![mobile](./docs/mobile-initial.png)   |
-| :--------------------------------------: |
-| _Initial view of the web page on mobile_ |
+| ![mobile](./docs/mobile-initial.png) |
+| :----------------------------------: |
+|       _The web page on mobile_       |
 
 | ![mobile](./docs/mobile-content.png) |
 | :----------------------------------: |
-|   _View of the web page on mobile_   |
+|       _The web page on mobile_       |
 
 ## Dependencies
 
