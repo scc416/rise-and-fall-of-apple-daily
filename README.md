@@ -22,6 +22,7 @@ This web page is one of my project for [Responsive Web Design Certification](htt
 - [Final Product](#final-product)
 - [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
+- [Credit](#credit)
 
 ## Live demo
 
@@ -54,3 +55,7 @@ https://scc416.github.io/rise-and-fall-of-apple-daily/
 
 1. Clone or download this repository onto your local device.
 2. Open `index.html` with browser.
+
+## Credit
+- [Article](https://www.reuters.com/world/asia-pacific/rise-fall-hks-apple-daily-media-magnate-jimmy-lai-2021-06-21/) content written by James Pomfret @ [Reuters](https://www.reuters.com/).
+- [Taiwan version of Apple Daily](https://tw.appledaily.com/) is still available.
